@@ -2,6 +2,7 @@ user_input = int(input('How many Fibonacci numbers would you like to generate? '
 
 
 def fib_seq(repeats):
+    '''Generates the Fibonacci Sequence'''
     first_num = 1
     second_num = 1
     print(first_num)
